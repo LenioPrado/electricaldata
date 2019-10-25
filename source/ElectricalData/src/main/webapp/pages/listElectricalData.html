@@ -1,0 +1,63 @@
+<!-- Listagem e Gráficos de Dados Elétricos-->
+<section>
+    <section class="content-header">
+      <h1 id="sectionInfo">
+        Listagem de Dados Elétricos
+      </h1>
+    </section>
+    <section class="content">
+   	<div id="messages" style="display:none" class="alert alert-dismissible">
+	  <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+	  <strong></strong>
+	</div>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="box">
+            <div class="box-header">
+            	<form name="listElectricalData" id="listElectricalData" method="post" enctype="multipart/form-data">
+			        <div class="col-xs-2">
+						<div class="box-body">
+							<div class="form-group"><label>Local</label></div>
+							<div class="form-group"><label>Data Inicial</label></div>
+							<div class="form-group"><label>Data Final</label></div>
+						</div>
+					</div>              
+	
+					<div class="col-xs-10">
+						<div class="box-body">
+							<div class="form-group"><select name="place" id="place"></select></div>
+							<div class="form-group"><select name="measurementStartDate" id="measurementStartDate"></select></div>
+							<div class="form-group"><select name="measurementEndDate" id="measurementEndDate"></select></div>							 
+						</div>					
+					</div>
+					
+		              <div class="box-footer">		              		 
+		                    <input type="submit" value="Listar" id="listElectricalDataButton" class="btn btn-primary">
+			                <input id="noEndDate" type="checkbox"> Sem Data Final
+			                <input id="automaticUpdate" type="checkbox"> Atualizar Automaticamente?
+		              </div>
+	              </form>				            
+            </div>
+            <div class="box-body">
+              <table id="listElectricalDataTable" class="table table-bordered table-hover">
+                <thead>
+                  <tr>
+                      <th>Id</th>
+                      <th>Data</th>
+                      <th>Corrente</th>
+                      <th>Voltagem AB</th>
+                      <th>Voltagem BC</th>
+                      <th>Voltagem CA</th>
+                      <th class="columnFixedSize"></th>
+                  </tr>
+                </thead>
+                <tbody>                  
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="graphics"></div>
+    </section>
+</section>

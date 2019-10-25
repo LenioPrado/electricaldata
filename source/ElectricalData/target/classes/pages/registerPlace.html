@@ -1,0 +1,41 @@
+﻿<!-- Cadastro de Locais -->
+<section>
+    <section class="content-header">
+      <h1 id="pageTitle">
+        Cadastrar Local
+      </h1>
+    </section>
+    <section class="content">
+   	<div id="messages" style="display:none" class="alert alert-dismissible">
+	  <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+	  <strong></strong>
+	</div> 	
+      <div class="row">
+        <div class="col-md-12">
+          <div class="box box-primary">
+          
+            <form name="registerPlace" id="registerPlace" method="post" enctype="multipart/form-data">
+            
+		        <div class="col-xs-2">
+					<div class="box-body">
+						<div class="form-group"><label>Nome</label></div>
+						<div class="form-group"><label>Medidor</label></div>
+					</div>
+				</div> 
+				
+				<div class="col-xs-10">
+					<div class="box-body">
+						<div class="form-group"><input type="text" name="name" id="name" /></div>
+						<div class="form-group"><input type="text" name="meter" id="meter" /></div>
+					</div>					
+				</div>				
+              
+              <div class="box-footer">
+                    <input type="submit" value="Cadastrar" id="submitPlace" class="btn btn-primary">
+              </div>
+            </form>
+            </div>
+        </div>
+      </div>
+    </section>
+</section>

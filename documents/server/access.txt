@@ -1,0 +1,7 @@
+Nome: app.pocos01
+IP: 200.131.172.154
+Usuário: debian
+
+root user: root -- VRV5zJTsLajuh4hiL4nBm4H2ZhpcVF@%
+tomcat user: dadoseletricos -- pgeEQqRNURfL1eDtoZtjxhORpB4Uuo@%
+mysql: root -- zChpPzUqlmbTqvqqwr4mblGqYU2DRJ

@@ -1,0 +1,1563 @@
+[INFO  04/06/2019 18:19:36 : UserService-login:72] - login 
+[INFO  04/06/2019 18:19:42 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 18:19:42 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 18:19:42 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 18:19:42 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 18:19:42 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 18:19:42 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:19:42 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 18:19:42 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 18:19:42 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 18:25:39 : UserService-login:72] - login 
+[INFO  04/06/2019 18:25:45 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 18:25:45 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 18:25:45 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 18:25:45 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 18:25:45 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 18:25:45 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:25:45 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 18:25:45 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 18:25:45 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 18:25:54 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:28:27 : UserService-login:54] - login 
+[INFO  04/06/2019 18:28:27 : PersistenceXmlParser-doResolve:80] - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+[INFO  04/06/2019 18:29:09 : UserService-login:54] - login 
+[INFO  04/06/2019 18:29:09 : PersistenceXmlParser-doResolve:80] - HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+[INFO  04/06/2019 18:30:48 : UserService-login:54] - login 
+[INFO  04/06/2019 18:30:48 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 18:30:48 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 18:30:48 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 18:30:49 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 18:30:49 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 18:30:49 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:30:49 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=zChpPzUqlmbTqvqqwr4mblGqYU2DRJ}
+[INFO  04/06/2019 18:30:49 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 18:30:49 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 18:30:56 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:31:39 : UserService-login:54] - login 
+[INFO  04/06/2019 18:31:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 18:31:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 18:31:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 18:31:40 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 18:31:41 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 18:31:41 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:31:41 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 18:31:41 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 18:31:41 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 18:43:35 : UserService-login:54] - login 
+[INFO  04/06/2019 18:43:36 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 18:43:36 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 18:43:36 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 18:43:37 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 18:43:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 18:43:39 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 18:43:39 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 18:43:39 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 18:43:39 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:09:07 : UserService-login:54] - login 
+[INFO  04/06/2019 19:09:07 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:09:07 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:09:07 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:09:07 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:09:08 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:09:08 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:09:08 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:09:08 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:09:08 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:12:00 : UserService-login:54] - login 
+[INFO  04/06/2019 19:12:00 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:12:00 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:12:00 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:12:01 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:12:01 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:12:01 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:12:01 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:12:01 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:12:01 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:12:15 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:15:16 : UserService-login:54] - login 
+[INFO  04/06/2019 19:15:16 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:15:16 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:15:16 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:15:16 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:15:17 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:15:17 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:15:17 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:15:17 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:15:17 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:15:18 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:15:46 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:15:46 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:15:46 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:15:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:15:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:15:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:15:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:15:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:15:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:15:48 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:15:49 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:18:24 : UserService-login:54] - login 
+[INFO  04/06/2019 19:19:54 : UserService-login:54] - login 
+[INFO  04/06/2019 19:19:55 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:19:55 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:19:55 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:19:55 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:19:56 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:19:56 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data?useSSL=false;]
+[INFO  04/06/2019 19:19:56 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:19:56 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:19:56 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:19:58 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data?useSSL=false;]
+[INFO  04/06/2019 19:21:37 : UserService-login:54] - login 
+[INFO  04/06/2019 19:21:38 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:21:38 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:21:38 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:21:38 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:21:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:21:38 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data?autoReconnect=true;useSSL=false;]
+[INFO  04/06/2019 19:21:38 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:21:38 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:21:38 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:21:46 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data?autoReconnect=true;useSSL=false;]
+[INFO  04/06/2019 19:28:09 : UserService-login:54] - login 
+[INFO  04/06/2019 19:28:10 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:28:10 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:28:10 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:28:10 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:28:10 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:28:10 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:28:10 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:28:10 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:28:10 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:28:11 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:28:13 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:28:13 : UserService-login:86] - account not found 
+[INFO  04/06/2019 19:29:06 : UserService-login:54] - login 
+[INFO  04/06/2019 19:29:06 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:29:06 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:29:06 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:29:06 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:29:07 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:29:07 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:29:07 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:29:07 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:29:07 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:29:28 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:35:17 : UserService-login:54] - login 
+[INFO  04/06/2019 19:35:18 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:35:18 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:35:18 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:35:18 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:35:19 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:35:19 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [null] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:35:19 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:35:19 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:35:19 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:35:25 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:36:37 : UserService-login:54] - login 
+[INFO  04/06/2019 19:36:37 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:36:37 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:36:37 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:36:37 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:36:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:36:38 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data]
+[INFO  04/06/2019 19:36:38 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:36:38 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:36:38 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:38:22 : UserService-login:54] - login 
+[INFO  04/06/2019 19:38:22 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:38:22 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:38:22 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:38:22 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:38:23 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:38:23 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  04/06/2019 19:38:23 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:38:23 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:38:23 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:38:24 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:38:26 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:38:27 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  04/06/2019 19:38:34 : UserService-login:54] - login 
+[INFO  04/06/2019 19:38:34 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  04/06/2019 19:40:36 : UserService-login:54] - login 
+[INFO  04/06/2019 19:40:36 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:40:36 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:40:36 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:40:36 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:40:37 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:40:37 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  04/06/2019 19:40:37 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:40:37 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:40:37 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:40:38 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:40:39 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:40:40 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  04/06/2019 19:45:34 : UserService-login:54] - login 
+[INFO  04/06/2019 19:45:34 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:45:34 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:45:34 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:45:35 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:45:35 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:45:35 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  04/06/2019 19:45:35 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:45:35 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:45:35 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:45:36 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:45:38 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:45:39 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  04/06/2019 19:50:09 : UserService-login:54] - login 
+[INFO  04/06/2019 19:50:15 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  04/06/2019 19:50:15 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  04/06/2019 19:50:15 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  04/06/2019 19:50:15 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  04/06/2019 19:50:16 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  04/06/2019 19:50:16 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  04/06/2019 19:50:16 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  04/06/2019 19:50:16 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  04/06/2019 19:50:16 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  04/06/2019 19:50:17 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  04/06/2019 19:50:19 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  04/06/2019 19:50:19 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 10:25:31 : UserService-login:54] - login 
+[INFO  12/06/2019 10:25:31 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:25:31 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:25:31 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:25:31 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:25:32 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:25:32 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:25:32 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:25:32 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:25:32 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:25:33 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:25:35 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:25:36 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 10:33:04 : UserService-login:54] - login 
+[INFO  12/06/2019 10:33:04 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:33:56 : UserService-login:54] - login 
+[INFO  12/06/2019 10:33:56 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:34:05 : UserService-login:54] - login 
+[INFO  12/06/2019 10:34:05 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:35:00 : UserService-login:54] - login 
+[INFO  12/06/2019 10:35:00 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:35:51 : UserService-login:54] - login 
+[INFO  12/06/2019 10:35:51 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:37:45 : UserService-login:54] - login 
+[INFO  12/06/2019 10:37:46 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:37:46 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:37:46 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:37:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:37:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:37:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:37:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:37:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:37:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:37:47 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:37:49 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:37:50 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:39:00 : UserService-login:54] - login 
+[INFO  12/06/2019 10:39:01 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:39:01 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:39:01 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:39:01 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:39:01 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:39:01 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:39:01 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:39:01 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:39:01 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:39:02 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:39:03 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:39:04 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:39:47 : UserService-login:54] - login 
+[INFO  12/06/2019 10:39:47 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:39:50 : UserService-login:54] - login 
+[INFO  12/06/2019 10:39:50 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 10:41:02 : UserService-login:54] - login 
+[INFO  12/06/2019 10:41:02 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:41:02 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:41:02 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:41:02 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:41:03 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:41:03 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:41:03 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:41:03 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:41:03 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:41:04 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:41:05 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:41:06 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:43:27 : UserService-login:54] - login 
+[INFO  12/06/2019 10:43:27 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:43:27 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:43:27 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:43:27 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:43:27 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:43:27 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:43:27 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:43:27 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:43:27 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:43:29 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:43:30 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:43:31 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 10:43:36 : UserService-login:54] - login 
+[INFO  12/06/2019 10:43:36 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 10:46:48 : UserService-login:54] - login 
+[INFO  12/06/2019 10:46:48 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 10:46:48 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 10:46:48 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 10:46:48 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 10:46:49 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 10:46:49 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 10:46:49 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 10:46:49 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 10:46:49 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 10:46:50 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 10:46:52 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 10:46:52 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 11:12:02 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  12/06/2019 11:12:02 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:12:02 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:12:02 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 11:21:32 : UserService-login:54] - login 
+[INFO  12/06/2019 11:21:33 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 11:21:33 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 11:21:33 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 11:21:33 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 11:21:33 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 11:21:33 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 11:21:33 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 11:21:33 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 11:21:33 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 11:21:35 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 11:21:37 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 11:21:37 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 11:24:22 : UserService-login:54] - login 
+[INFO  12/06/2019 11:24:23 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 11:24:23 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 11:24:23 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 11:24:23 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 11:24:24 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 11:24:24 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 11:24:24 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 11:24:24 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 11:24:24 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 11:24:25 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 11:24:27 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 11:24:28 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 11:27:55 : UserService-login:54] - login 
+[INFO  12/06/2019 11:27:55 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 11:27:55 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 11:27:55 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 11:27:56 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 11:27:56 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 11:27:56 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 11:27:56 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 11:27:56 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 11:27:56 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 11:27:58 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 11:28:00 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 11:28:00 : UserService-login:68] - UsuÃ¡rio Logado!!!!!
+[INFO  12/06/2019 11:32:21 : UserService-login:54] - login 
+[INFO  12/06/2019 11:32:22 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 11:32:22 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 11:32:22 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 11:32:22 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 11:32:23 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 11:32:23 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 11:32:23 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 11:32:23 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 11:32:23 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 11:32:24 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 11:32:26 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 11:32:26 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 11:35:01 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  12/06/2019 11:35:01 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:35:01 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:35:01 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[WARN  12/06/2019 11:38:06 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1136, SQLState: 21S01
+[ERROR 12/06/2019 11:38:06 : SqlExceptionHelper-logExceptions:129] - Column count doesn't match value count at row 1
+[INFO  12/06/2019 11:51:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 11:51:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 11:51:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 11:51:41 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 11:51:41 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 11:51:41 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 11:51:41 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 11:51:41 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 11:51:41 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 11:51:42 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 11:51:44 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 11:52:22 : UserService-login:54] - login 
+[INFO  12/06/2019 11:52:23 : UserService-login:80] - invalid password 
+[INFO  12/06/2019 11:52:27 : UserService-login:54] - login 
+[INFO  12/06/2019 11:52:27 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 11:56:29 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  12/06/2019 11:56:29 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:56:29 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 11:56:29 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 12:09:48 : UserService-login:54] - login 
+[INFO  12/06/2019 12:09:48 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 12:09:48 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 12:09:48 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 12:09:49 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 12:09:49 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 12:09:49 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 12:09:49 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 12:09:49 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 12:09:49 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 12:09:50 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 12:09:52 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 12:09:52 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 12:10:05 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  12/06/2019 12:10:05 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 12:10:05 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  12/06/2019 12:10:05 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:00:05 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:00:05 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:00:05 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:00:05 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:01:13 : UserService-login:54] - login 
+[INFO  12/06/2019 15:01:13 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:01:13 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:01:13 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:01:13 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:01:14 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:01:14 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:01:14 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:01:14 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:01:14 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:01:15 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:01:16 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:01:16 : UserService-login:86] - account not found 
+[INFO  12/06/2019 15:02:18 : UserService-login:54] - login 
+[INFO  12/06/2019 15:02:18 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:02:18 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:02:18 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:02:18 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:02:19 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:02:19 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:02:19 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:02:19 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:02:19 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:02:20 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:02:21 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:02:22 : UserService-login:86] - account not found 
+[INFO  12/06/2019 15:14:15 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:14:15 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:14:15 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:14:16 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:14:16 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:14:16 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:14:16 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:14:16 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:14:16 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:14:18 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:14:20 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:15:29 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:15:29 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:15:29 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:15:29 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:15:30 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:15:31 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:15:31 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:15:31 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:15:31 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:15:33 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:15:35 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:15:43 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:15:43 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:15:43 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:15:43 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:16:05 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:16:05 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:16:05 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:16:05 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:16:06 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:16:06 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:16:06 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:16:06 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:16:06 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:16:08 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:16:10 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:44:52 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:44:52 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:44:52 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:44:52 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:44:53 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:44:53 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:44:53 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:44:53 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:44:53 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:44:55 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:44:56 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:45:28 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:45:28 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:45:28 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:45:28 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:48:26 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:48:26 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:48:26 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:48:27 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:48:27 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:48:27 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:48:27 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:48:27 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:48:27 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:48:29 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:48:31 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:48:51 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:48:51 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:48:51 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:48:51 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:52:35 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:52:35 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:52:35 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:52:35 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:52:35 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:52:35 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:52:35 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:52:35 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:52:35 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:52:37 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:52:39 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:52:49 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:52:49 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:52:49 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:52:49 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:53:19 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:53:19 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:53:19 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:53:20 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:53:20 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:53:20 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:53:20 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:53:20 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:53:20 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:53:22 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:53:24 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:53:24 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:53:24 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:53:24 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:53:24 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:54:45 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:54:45 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:54:45 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:54:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:54:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:54:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:54:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:54:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:54:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:54:48 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:54:50 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:54:51 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:54:51 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:54:51 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:54:51 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:56:45 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:56:45 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:56:45 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:56:45 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:56:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:56:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:56:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:56:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:56:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:56:47 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:56:48 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:56:48 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:56:48 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:56:48 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:56:48 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 15:57:00 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 15:57:00 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 15:57:00 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 15:57:00 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 15:57:01 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 15:57:01 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 15:57:01 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 15:57:01 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 15:57:01 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 15:57:02 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 15:57:03 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 15:57:04 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 15:57:04 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:57:04 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 15:57:04 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 16:01:49 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 16:01:49 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 16:01:49 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 16:01:50 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 16:01:50 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 16:01:50 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 16:01:50 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 16:01:50 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 16:01:50 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 16:01:52 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 16:01:53 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 16:01:53 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 16:01:53 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 16:01:53 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 16:01:53 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 16:02:41 : UserService-login:54] - login 
+[INFO  12/06/2019 16:02:42 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 16:02:42 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 16:02:42 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 16:02:42 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 16:02:43 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 16:02:43 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 16:02:43 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 16:02:43 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 16:02:43 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 16:02:45 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 16:02:47 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 16:02:47 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 16:03:11 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 16:03:11 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 16:03:11 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 16:03:11 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 16:03:12 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 16:03:12 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 16:03:12 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 16:03:12 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 16:03:12 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 16:03:14 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 16:03:15 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 16:03:16 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 16:03:16 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 16:03:16 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 16:03:16 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 16:04:04 : UserService-login:54] - login 
+[INFO  12/06/2019 16:04:05 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 16:04:05 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 16:04:05 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 16:04:05 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 16:04:05 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 16:04:05 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 16:04:05 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 16:04:05 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 16:04:05 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 16:04:07 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 16:04:08 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 16:04:08 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 16:05:40 : UserService-login:54] - login 
+[INFO  12/06/2019 16:05:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 16:05:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 16:05:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 16:05:40 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 16:05:40 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 16:05:40 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 16:05:40 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 16:05:40 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 16:05:40 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 16:05:42 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 16:05:43 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 16:05:43 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 18:26:11 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 18:26:11 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:26:11 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:26:11 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 18:26:12 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:26:12 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:26:12 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:26:12 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:26:12 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:26:12 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:26:12 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:26:12 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:26:12 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:26:53 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 18:26:53 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:26:53 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:26:53 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 18:26:57 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:26:57 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:26:57 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:26:57 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:26:58 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:26:58 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:26:58 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:26:58 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:26:58 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:27:00 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 18:27:01 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 18:30:59 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 18:30:59 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:30:59 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:30:59 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 18:31:00 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:31:00 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:31:00 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:31:00 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:31:00 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:31:00 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:31:00 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:31:00 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:31:00 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:31:01 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 18:31:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 18:31:28 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 18:31:28 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:31:28 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:31:28 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 18:31:29 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:31:29 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:31:29 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:31:29 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:31:29 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:31:29 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:31:29 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:31:29 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:31:29 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:31:30 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 18:31:31 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 18:34:24 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  12/06/2019 18:34:24 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:34:24 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  12/06/2019 18:34:24 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  12/06/2019 18:34:24 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:34:24 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:34:24 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:34:24 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:34:25 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:34:25 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:34:25 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:34:25 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:34:25 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:34:26 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 18:34:27 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 18:37:58 : UserService-login:54] - login 
+[INFO  12/06/2019 18:37:59 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 18:37:59 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 18:37:59 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 18:37:59 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 18:37:59 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 18:37:59 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 18:37:59 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 18:37:59 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 18:37:59 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 18:38:00 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 18:38:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 18:38:03 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:05:43 : UserService-login:54] - login 
+[INFO  12/06/2019 19:05:44 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:05:44 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:05:44 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:05:44 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:05:45 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:05:45 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:05:45 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:05:45 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:05:45 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:05:46 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:05:48 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:05:48 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:10:17 : UserService-login:54] - login 
+[INFO  12/06/2019 19:10:17 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:10:17 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:10:17 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:10:17 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:10:18 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:10:18 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:10:18 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:10:18 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:10:18 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:10:19 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:10:21 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:10:21 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:18:58 : UserService-login:54] - login 
+[INFO  12/06/2019 19:18:58 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:18:58 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:18:58 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:18:59 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:18:59 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:18:59 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:18:59 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:18:59 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:18:59 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:19:01 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:19:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:19:03 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:21:31 : UserService-login:54] - login 
+[INFO  12/06/2019 19:21:31 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:21:31 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:21:31 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:21:32 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:21:32 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:21:32 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:21:32 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:21:32 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:21:32 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:21:33 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:21:35 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:21:36 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:52:59 : UserService-login:54] - login 
+[INFO  12/06/2019 19:53:00 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:53:00 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:53:00 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:53:00 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:53:01 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:53:01 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:53:01 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:53:01 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:53:01 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:53:02 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:53:05 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:53:05 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 19:57:52 : UserService-login:54] - login 
+[INFO  12/06/2019 19:57:53 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  12/06/2019 19:57:53 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  12/06/2019 19:57:53 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  12/06/2019 19:57:53 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  12/06/2019 19:57:53 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  12/06/2019 19:57:53 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  12/06/2019 19:57:53 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  12/06/2019 19:57:53 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  12/06/2019 19:57:53 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  12/06/2019 19:57:55 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  12/06/2019 19:57:56 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  12/06/2019 19:57:56 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 20:00:44 : UserService-login:54] - login 
+[INFO  12/06/2019 20:00:44 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  12/06/2019 20:01:04 : UserService-login:54] - login 
+[INFO  12/06/2019 20:01:04 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  13/06/2019 16:55:37 : UserService-login:54] - login 
+[INFO  13/06/2019 16:55:37 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 16:55:37 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 16:55:37 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 16:55:38 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 16:55:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 16:55:38 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 16:55:38 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 16:55:38 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 16:55:38 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 16:55:49 : DriverManagerConnectionProviderImpl-stop:259] - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 16:56:06 : UserService-login:54] - login 
+[WARN  13/06/2019 16:56:06 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 16:56:06 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 16:56:06 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 16:56:06 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 16:56:06 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 16:56:07 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 16:56:09 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  13/06/2019 16:56:09 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  13/06/2019 16:58:17 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 16:58:17 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 16:58:17 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 16:58:17 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 16:58:18 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 16:58:18 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 16:58:18 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 16:58:18 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 16:58:18 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 16:58:19 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 16:58:20 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  13/06/2019 17:01:40 : UserService-login:54] - login 
+[INFO  13/06/2019 17:01:40 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  13/06/2019 18:14:45 : UserService-login:54] - login 
+[INFO  13/06/2019 18:14:45 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  13/06/2019 18:27:31 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  13/06/2019 18:27:31 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 18:27:31 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 18:27:31 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  13/06/2019 18:27:32 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 18:27:32 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 18:27:32 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 18:27:32 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 18:27:32 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 18:27:32 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 18:27:32 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 18:27:32 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 18:27:32 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 18:27:35 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 18:27:36 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  13/06/2019 18:40:45 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  13/06/2019 18:40:45 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 18:40:45 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 18:40:45 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  13/06/2019 18:40:46 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 18:40:46 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 18:40:46 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 18:40:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 18:40:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 18:40:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 18:40:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 18:40:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 18:40:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 18:40:48 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 18:40:49 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  13/06/2019 19:21:48 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  13/06/2019 19:21:48 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 19:21:48 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 19:21:48 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  13/06/2019 19:21:48 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 19:21:48 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 19:21:48 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 19:21:49 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 19:21:49 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 19:21:49 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 19:21:49 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 19:21:49 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 19:21:49 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 19:21:50 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 19:21:51 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  13/06/2019 20:44:36 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  13/06/2019 20:44:36 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 20:44:36 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  13/06/2019 20:44:36 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  13/06/2019 20:44:37 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  13/06/2019 20:44:37 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  13/06/2019 20:44:37 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  13/06/2019 20:44:38 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  13/06/2019 20:44:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  13/06/2019 20:44:38 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  13/06/2019 20:44:38 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  13/06/2019 20:44:38 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  13/06/2019 20:44:38 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  13/06/2019 20:44:39 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  13/06/2019 20:44:41 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 16:32:36 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  19/06/2019 16:32:36 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 16:32:36 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 16:32:36 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  19/06/2019 16:32:37 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 16:32:37 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 16:32:37 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 16:32:37 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 16:32:37 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 16:32:37 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 16:32:37 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 16:32:37 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 16:32:37 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 16:32:38 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 16:32:39 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 16:33:39 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  19/06/2019 16:33:39 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 16:33:39 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 16:33:39 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  19/06/2019 16:33:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 16:33:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 16:33:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 16:33:40 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 16:33:40 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 16:33:40 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 16:33:40 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 16:33:40 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 16:33:40 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 16:33:42 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 16:33:43 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 16:33:50 : UserService-login:54] - login 
+[INFO  19/06/2019 16:33:50 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 16:33:50 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 16:33:50 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 16:33:51 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 16:33:51 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 16:33:51 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 16:33:51 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 16:33:51 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 16:33:51 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 16:33:52 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 16:33:53 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 16:33:54 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 17:51:41 : UserService-login:54] - login 
+[INFO  19/06/2019 17:51:42 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 17:51:42 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 17:51:42 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 17:51:42 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 17:51:43 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 17:51:43 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 17:51:43 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 17:51:43 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 17:51:43 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 17:51:44 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 17:51:46 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 17:51:46 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 17:52:53 : UserService-login:54] - login 
+[INFO  19/06/2019 17:52:53 : UserService-login:68] - Usuário Logado!!!!!
+[ERROR 19/06/2019 18:03:14 : ErrorCounter-reportError:60] - line 1:2: unexpected token: AND
+[ERROR 19/06/2019 18:03:14 : ErrorCounter-reportError:55] - line 1:2: unexpected token: AND
+line 1:2: unexpected token: AND
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:198)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:279)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:187)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:142)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:76)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:150)
+	at org.hibernate.internal.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:298)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:236)
+	at org.hibernate.internal.SessionImpl.createQuery(SessionImpl.java:1821)
+	at org.hibernate.jpa.spi.AbstractEntityManagerImpl.createQuery(AbstractEntityManagerImpl.java:305)
+	at services.electricaldata.ifsuldeminas.edu.br.BaseService.listFiltering(BaseService.java:134)
+	at services.electricaldata.ifsuldeminas.edu.br.ElectricalDataService.getByPlaceAndDateInterval(ElectricalDataService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.glassfish.jersey.server.model.internal.ResourceMethodInvocationHandlerFactory.lambda$static$0(ResourceMethodInvocationHandlerFactory.java:74)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher$1.run(AbstractJavaResourceMethodDispatcher.java:144)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.invoke(AbstractJavaResourceMethodDispatcher.java:161)
+	at org.glassfish.jersey.server.model.internal.JavaResourceMethodDispatcherProvider$TypeOutInvoker.doDispatch(JavaResourceMethodDispatcherProvider.java:247)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.dispatch(AbstractJavaResourceMethodDispatcher.java:99)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:388)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:346)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:102)
+	at org.glassfish.jersey.server.ServerRuntime$2.run(ServerRuntime.java:337)
+	at org.glassfish.jersey.internal.Errors$1.call(Errors.java:271)
+	at org.glassfish.jersey.internal.Errors$1.call(Errors.java:267)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:315)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:297)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:267)
+	at org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:280)
+	at org.glassfish.jersey.server.ServerRuntime.process(ServerRuntime.java:316)
+	at org.glassfish.jersey.server.ApplicationHandler.handle(ApplicationHandler.java:1084)
+	at org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:418)
+	at org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:372)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:389)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:342)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:229)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ERROR 19/06/2019 18:04:09 : ErrorCounter-reportError:60] - line 1:2: unexpected token: AND
+[ERROR 19/06/2019 18:04:09 : ErrorCounter-reportError:55] - line 1:2: unexpected token: AND
+line 1:2: unexpected token: AND
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:198)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:279)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:187)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:142)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:76)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:150)
+	at org.hibernate.internal.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:298)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:236)
+	at org.hibernate.internal.SessionImpl.createQuery(SessionImpl.java:1821)
+	at org.hibernate.jpa.spi.AbstractEntityManagerImpl.createQuery(AbstractEntityManagerImpl.java:305)
+	at services.electricaldata.ifsuldeminas.edu.br.BaseService.listFiltering(BaseService.java:134)
+	at services.electricaldata.ifsuldeminas.edu.br.ElectricalDataService.getByPlaceAndDateInterval(ElectricalDataService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.glassfish.jersey.server.model.internal.ResourceMethodInvocationHandlerFactory.lambda$static$0(ResourceMethodInvocationHandlerFactory.java:74)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher$1.run(AbstractJavaResourceMethodDispatcher.java:144)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.invoke(AbstractJavaResourceMethodDispatcher.java:161)
+	at org.glassfish.jersey.server.model.internal.JavaResourceMethodDispatcherProvider$TypeOutInvoker.doDispatch(JavaResourceMethodDispatcherProvider.java:247)
+	at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.dispatch(AbstractJavaResourceMethodDispatcher.java:99)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:388)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:346)
+	at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:102)
+	at org.glassfish.jersey.server.ServerRuntime$2.run(ServerRuntime.java:337)
+	at org.glassfish.jersey.internal.Errors$1.call(Errors.java:271)
+	at org.glassfish.jersey.internal.Errors$1.call(Errors.java:267)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:315)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:297)
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:267)
+	at org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:280)
+	at org.glassfish.jersey.server.ServerRuntime.process(ServerRuntime.java:316)
+	at org.glassfish.jersey.server.ApplicationHandler.handle(ApplicationHandler.java:1084)
+	at org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:418)
+	at org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:372)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:389)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:342)
+	at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:229)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO  19/06/2019 18:04:49 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:04:49 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:04:49 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:04:49 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:04:49 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:04:49 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:04:49 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:04:49 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:04:49 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:04:50 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:04:51 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  19/06/2019 18:19:12 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1525, SQLState: HY000
+[ERROR 19/06/2019 18:19:12 : SqlExceptionHelper-logExceptions:129] - Incorrect DATETIME value: 'null 23:59:59'
+[WARN  19/06/2019 18:20:04 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1525, SQLState: HY000
+[ERROR 19/06/2019 18:20:04 : SqlExceptionHelper-logExceptions:129] - Incorrect DATETIME value: 'null 23:59:59'
+[INFO  19/06/2019 18:24:04 : UserService-login:54] - login 
+[INFO  19/06/2019 18:24:05 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:24:05 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:24:05 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:24:06 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:24:06 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:24:06 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:24:06 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:24:06 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:24:06 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:24:07 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:24:09 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:24:10 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 18:26:08 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:26:08 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:26:08 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:26:08 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:26:08 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:26:08 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:26:08 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:26:08 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:26:08 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:26:08 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:26:10 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:27:02 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:27:02 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:27:02 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:27:02 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:27:02 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:27:02 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:27:02 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:27:02 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:27:02 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:27:03 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:27:04 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:28:36 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  19/06/2019 18:28:36 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 18:28:36 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 18:28:36 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  19/06/2019 18:28:47 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:28:47 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:28:47 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:28:47 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:28:47 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:28:47 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:28:47 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:28:47 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:28:47 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:28:49 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:28:50 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:31:29 : UserService-login:54] - login 
+[INFO  19/06/2019 18:31:30 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:31:30 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:31:30 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:31:30 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:31:30 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:31:30 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:31:30 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:31:30 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:31:30 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:31:31 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:31:32 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:31:33 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 18:31:50 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  19/06/2019 18:31:50 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 18:31:50 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  19/06/2019 18:31:50 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  19/06/2019 18:31:51 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:31:51 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:31:51 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:31:51 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:31:51 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:31:51 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:31:51 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:31:51 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:31:51 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:31:53 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:31:55 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:36:25 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:36:25 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:36:25 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:36:26 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:36:26 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:36:26 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:36:26 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:36:26 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:36:26 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:36:27 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:36:28 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:38:40 : UserService-login:54] - login 
+[INFO  19/06/2019 18:38:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:38:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:38:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:38:40 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:38:41 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:38:41 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:38:41 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:38:41 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:38:41 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:38:42 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:38:44 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:38:45 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 18:40:37 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:40:37 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:40:37 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:40:37 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:40:38 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:40:38 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:40:38 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:40:38 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:40:38 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:40:39 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:40:40 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:42:39 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:42:39 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:42:39 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:42:39 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:42:40 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:42:40 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:42:40 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:42:40 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:42:40 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:42:40 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:42:41 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:44:17 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:44:17 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:44:17 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:44:17 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:44:18 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:44:18 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:44:18 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:44:18 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:44:18 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:44:18 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:44:20 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:46:18 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:46:18 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:46:18 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:46:19 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:46:19 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:46:19 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:46:19 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:46:19 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:46:19 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:46:19 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:46:20 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:48:00 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:48:00 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:48:00 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:48:00 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:48:00 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:48:00 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:48:00 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:48:00 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:48:00 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:48:00 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:48:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:49:41 : UserService-login:54] - login 
+[INFO  19/06/2019 18:49:42 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:49:42 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:49:42 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:49:42 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:49:42 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:49:42 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:49:42 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:49:42 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:49:42 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:49:43 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:49:44 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:49:45 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  19/06/2019 18:51:22 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:51:22 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:51:22 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:51:22 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:51:22 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:51:22 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:51:22 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:51:22 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:51:22 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:51:23 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:51:24 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:53:03 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:53:03 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:53:03 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:53:03 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:53:03 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:53:03 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:53:03 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:53:03 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:53:03 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:53:04 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:53:05 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:53:46 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:53:46 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:53:46 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:53:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:53:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:53:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:53:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:53:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:53:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:53:46 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:53:47 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:58:46 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:58:46 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:58:46 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:58:46 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:58:46 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:58:46 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:58:46 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:58:46 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:58:46 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:58:46 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:58:47 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 18:59:27 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 18:59:27 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 18:59:27 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 18:59:27 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 18:59:27 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 18:59:27 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 18:59:27 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 18:59:27 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 18:59:27 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 18:59:27 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 18:59:28 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  19/06/2019 18:59:39 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1525, SQLState: HY000
+[ERROR 19/06/2019 18:59:39 : SqlExceptionHelper-logExceptions:129] - Incorrect DATETIME value: '1 23:59:59'
+[WARN  19/06/2019 18:59:57 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1525, SQLState: HY000
+[ERROR 19/06/2019 18:59:57 : SqlExceptionHelper-logExceptions:129] - Incorrect DATETIME value: '1 23:59:59'
+[INFO  19/06/2019 19:01:51 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 19:01:51 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 19:01:51 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 19:01:51 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 19:01:51 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:01:51 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:01:51 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:01:51 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:01:51 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:01:52 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[WARN  19/06/2019 19:01:52 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:01:52 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:01:52 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:01:52 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:01:52 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:01:52 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 19:01:53 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 19:01:53 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  19/06/2019 19:01:53 : EntityManagerFactoryRegistry-addEntityManagerFactory:63] - HHH000436: Entity manager factory name (electricalData) is already registered.  If entity manager will be clustered or passivated, specify a unique value for property 'hibernate.ejb.entitymanager_factory_name'
+[INFO  19/06/2019 19:08:29 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 19:08:29 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 19:08:29 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 19:08:29 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 19:08:30 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:08:30 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:08:30 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:08:30 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:08:30 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:08:31 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 19:08:33 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  19/06/2019 19:08:33 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:08:33 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:08:33 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:08:33 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:08:33 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:08:33 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 19:08:33 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  19/06/2019 19:08:33 : EntityManagerFactoryRegistry-addEntityManagerFactory:63] - HHH000436: Entity manager factory name (electricalData) is already registered.  If entity manager will be clustered or passivated, specify a unique value for property 'hibernate.ejb.entitymanager_factory_name'
+[INFO  19/06/2019 19:13:43 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 19:13:44 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 19:13:44 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 19:13:44 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 19:13:44 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:13:44 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:13:44 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:13:44 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:13:44 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:13:44 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 19:13:45 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  19/06/2019 19:15:03 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  19/06/2019 19:15:03 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  19/06/2019 19:15:03 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  19/06/2019 19:15:03 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  19/06/2019 19:15:04 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  19/06/2019 19:15:04 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  19/06/2019 19:15:04 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  19/06/2019 19:15:04 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  19/06/2019 19:15:04 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  19/06/2019 19:15:04 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  19/06/2019 19:15:05 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  20/06/2019 11:36:36 : UserService-login:54] - login 
+[INFO  20/06/2019 11:36:36 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  20/06/2019 11:36:36 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  20/06/2019 11:36:36 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  20/06/2019 11:36:36 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  20/06/2019 11:36:37 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  20/06/2019 11:36:37 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  20/06/2019 11:36:37 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  20/06/2019 11:36:37 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  20/06/2019 11:36:37 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  20/06/2019 11:36:39 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  20/06/2019 11:36:42 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  20/06/2019 11:36:43 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  20/06/2019 11:38:13 : PropsUtil-getPathJar:149] -  pathJar /E:/Develop/electricaldata/trunk/source/ElectricalData/target/classes/
+[INFO  20/06/2019 11:38:13 : PropsUtil-getPathJar:152] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  20/06/2019 11:38:13 : PropsUtil-getPathJar:164] -  pathJar E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes
+[INFO  20/06/2019 11:38:13 : PropsUtil-getExternalPath:116] - E:\Develop\electricaldata\trunk\source\ElectricalData\target\classes\electricaldata.properties - exist = true
+[INFO  20/06/2019 11:38:14 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  20/06/2019 11:38:14 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  20/06/2019 11:38:14 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  20/06/2019 11:38:14 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  20/06/2019 11:38:14 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  20/06/2019 11:38:14 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  20/06/2019 11:38:14 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  20/06/2019 11:38:14 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  20/06/2019 11:38:14 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  20/06/2019 11:38:16 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  20/06/2019 11:38:17 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  20/06/2019 12:08:51 : UserService-login:54] - login 
+[INFO  20/06/2019 12:08:52 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  20/06/2019 12:08:52 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  20/06/2019 12:08:52 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  20/06/2019 12:08:52 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  20/06/2019 12:08:53 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  20/06/2019 12:08:53 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  20/06/2019 12:08:53 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  20/06/2019 12:08:53 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  20/06/2019 12:08:53 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  20/06/2019 12:08:54 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  20/06/2019 12:08:56 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  20/06/2019 12:08:57 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  20/06/2019 13:18:57 : UserService-login:54] - login 
+[INFO  20/06/2019 13:18:57 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  20/06/2019 13:18:57 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  20/06/2019 13:18:57 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  20/06/2019 13:18:57 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  20/06/2019 13:18:58 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  20/06/2019 13:18:58 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  20/06/2019 13:18:58 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  20/06/2019 13:18:58 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  20/06/2019 13:18:58 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  20/06/2019 13:18:59 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  20/06/2019 13:19:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  20/06/2019 13:19:02 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  24/06/2019 17:04:30 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  24/06/2019 17:04:30 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 17:04:30 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 17:04:30 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  24/06/2019 17:04:31 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  24/06/2019 17:04:31 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  24/06/2019 17:04:31 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  24/06/2019 17:04:31 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  24/06/2019 17:04:31 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  24/06/2019 17:04:31 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  24/06/2019 17:04:31 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  24/06/2019 17:04:31 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  24/06/2019 17:04:31 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  24/06/2019 17:04:33 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  24/06/2019 17:04:34 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[WARN  24/06/2019 17:04:35 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1452, SQLState: 23000
+[ERROR 24/06/2019 17:04:35 : SqlExceptionHelper-logExceptions:129] - Cannot add or update a child row: a foreign key constraint fails (`electrical_data`.`electrical_data`, CONSTRAINT `electrical_data_ibfk_1` FOREIGN KEY (`place_id`) REFERENCES `place` (`place_id`))
+[WARN  24/06/2019 17:06:03 : SqlExceptionHelper-logExceptions:127] - SQL Error: 1452, SQLState: 23000
+[ERROR 24/06/2019 17:06:03 : SqlExceptionHelper-logExceptions:129] - Cannot add or update a child row: a foreign key constraint fails (`electrical_data`.`electrical_data`, CONSTRAINT `electrical_data_ibfk_1` FOREIGN KEY (`place_id`) REFERENCES `place` (`place_id`))
+[INFO  24/06/2019 17:09:19 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  24/06/2019 17:09:20 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 17:09:20 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 17:09:20 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  24/06/2019 17:09:32 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  24/06/2019 17:09:32 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  24/06/2019 17:09:32 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  24/06/2019 17:09:33 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  24/06/2019 17:09:35 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  24/06/2019 17:09:35 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  24/06/2019 17:09:35 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  24/06/2019 17:09:35 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  24/06/2019 17:09:36 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  24/06/2019 17:09:39 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  24/06/2019 17:09:51 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  24/06/2019 19:12:13 : UserService-login:54] - login 
+[INFO  24/06/2019 19:12:13 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  24/06/2019 19:12:13 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  24/06/2019 19:12:13 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  24/06/2019 19:12:14 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  24/06/2019 19:12:14 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  24/06/2019 19:12:14 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  24/06/2019 19:12:14 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  24/06/2019 19:12:14 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  24/06/2019 19:12:14 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  24/06/2019 19:12:16 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  24/06/2019 19:12:17 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  24/06/2019 19:12:18 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  24/06/2019 19:14:43 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  24/06/2019 19:14:43 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 19:14:43 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  24/06/2019 19:14:43 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  27/08/2019 19:40:24 : UserService-login:54] - login 
+[INFO  27/08/2019 19:40:24 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  27/08/2019 19:40:24 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  27/08/2019 19:40:24 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  27/08/2019 19:40:25 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  27/08/2019 19:40:25 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  27/08/2019 19:40:25 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  27/08/2019 19:40:25 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  27/08/2019 19:40:25 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  27/08/2019 19:40:25 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  27/08/2019 19:40:27 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  27/08/2019 19:40:28 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  27/08/2019 19:40:29 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  27/08/2019 19:40:59 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  27/08/2019 19:40:59 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  27/08/2019 19:40:59 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  27/08/2019 19:40:59 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  10/10/2019 11:33:39 : UserService-login:54] - login 
+[INFO  10/10/2019 11:33:40 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  10/10/2019 11:33:40 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  10/10/2019 11:33:40 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  10/10/2019 11:33:40 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  10/10/2019 11:33:41 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  10/10/2019 11:33:41 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  10/10/2019 11:33:41 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  10/10/2019 11:33:41 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  10/10/2019 11:33:41 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  10/10/2019 11:33:42 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  10/10/2019 11:33:44 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  10/10/2019 11:33:44 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  10/10/2019 11:34:45 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  10/10/2019 11:34:45 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  10/10/2019 11:34:45 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  10/10/2019 11:34:45 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true
+[INFO  10/10/2019 14:49:58 : UserService-login:54] - login 
+[INFO  10/10/2019 14:49:59 : Version-logVersion:37] - HHH000412: Hibernate Core {5.0.0.Final}
+[INFO  10/10/2019 14:49:59 : Environment-<clinit>:213] - HHH000206: hibernate.properties not found
+[INFO  10/10/2019 14:49:59 : Environment-buildBytecodeProvider:317] - HHH000021: Bytecode provider name : javassist
+[INFO  10/10/2019 14:49:59 : JavaReflectionManager-<clinit>:66] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+[WARN  10/10/2019 14:49:59 : DriverManagerConnectionProviderImpl-configure:76] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[INFO  10/10/2019 14:49:59 : DriverManagerConnectionProviderImpl-buildCreator:149] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/electrical_data?useTimezone=true&serverTimezone=UTC]
+[INFO  10/10/2019 14:49:59 : DriverManagerConnectionProviderImpl-buildCreator:155] - HHH000046: Connection properties: {user=root, password=1234}
+[INFO  10/10/2019 14:49:59 : DriverManagerConnectionProviderImpl-buildCreator:163] - HHH000006: Autocommit mode: false
+[INFO  10/10/2019 14:49:59 : DriverManagerConnectionProviderImpl-configure:85] - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO  10/10/2019 14:50:00 : Dialect-<init>:154] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO  10/10/2019 14:50:02 : QueryTranslatorFactoryInitiator-initiateService:47] - HHH000397: Using ASTQueryTranslatorFactory
+[INFO  10/10/2019 14:50:02 : UserService-login:68] - Usuário Logado!!!!!
+[INFO  10/10/2019 14:50:26 : PropsUtil-getPathJar:149] -  pathJar /E:/apache-tomcat-8.5.41/wtpwebapps/ElectricalData/WEB-INF/classes/
+[INFO  10/10/2019 14:50:26 : PropsUtil-getPathJar:152] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  10/10/2019 14:50:26 : PropsUtil-getPathJar:164] -  pathJar E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes
+[INFO  10/10/2019 14:50:26 : PropsUtil-getExternalPath:116] - E:\apache-tomcat-8.5.41\wtpwebapps\ElectricalData\WEB-INF\classes\electricaldata.properties - exist = true

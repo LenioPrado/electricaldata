@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <meta charset="utf-8">
+    
+     <title>Exibição de Dados Elétricos</title>
+</head>
+
+<body>
+    <section id="header">
+        <header>
+ 			<img src="assets/images/logoIndex.png" >
+        </header>
+        <footer>
+            <a href="https://www.google.com">
+                <img src="assets/images/googlePlay.png"></a><br>
+            <a href="#login" class="button style2 scrolly-middle">Entrar</a>
+            <a href="#register" class="button style2 scrolly-middle">Cadastrar</a>
+        </footer>
+    </section>
+    
+<section id="login">
+    <article class="container box style3">
+         <header>
+            <h2>Entrar</h2>
+            <p>Obtenha acesso aos dados elétricos coletados.</p>
+        </header>
+	   	<div id="messagesLogin" style="display:none" class="alert alert-dismissible">
+		  <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+		  <strong></strong>
+		</div>        
+         <form name="loginForm" id="loginForm" method="post">
+            <label>Email</label><br> <input type="text" id="userEmail" name="userEmail"/><br>
+            <label>Senha</label> <br><input type="password" id="userPassword" name="userPassword"/><br>
+            <input id="loginSubmit" type="submit" value="Entrar"/>
+        </form>
+         
+    </article>
+</section>
+    
+<section id="register">
+    <article class="container box style3">
+        <header>
+            <h2>Cadastrar</h2>
+            <p>Realize o cadastro para acessar os dados elétricos coletados.</p>
+        </header> 
+	    <form name="registerForm" id="registerForm" method="post">
+	       	<label>Nome</label><br> <input type="text" name="name" id="name" /> <br>
+	        <label>Email </label> <br><input type="text" name="email" id="email"/> <br>
+	        <label>Senha</label><br> <input type="password" name="password" id="password"/> <br>
+	        <input type="submit" value="Cadastrar" id="registerUser">
+	    </form>
+	   	<div id="messagesRegister" style="display:none" class="alert alert-dismissible">
+		  <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+		  <strong></strong>
+		</div>  	    
+    </article>
+</section>
+    
+	<script src="assets/js/jquery-3.3.1.min.js"></script>
+	<script src="js/utils.js"></script>
+	<script src="js/index.js"></script>
+	<script src="js/validation.js"></script>  	 	
+	<script src="assets/js/jquery.form.js"></script>
+	<script src="assets/js/jquery.validate.min.js"> </script>  
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/jquery.poptrox.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+	
+</body>
+</html>
