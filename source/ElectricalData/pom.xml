@@ -14,7 +14,7 @@
  	<properties>
 		<jersey.version>1.19.4</jersey.version>		
 		<jersey.dependencies>2.26-b03</jersey.dependencies>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
  		<hibernate.version>5.0.0.Final</hibernate.version>
 <!--  		<hibernate.version>4.3.4.Final</hibernate.version> -->
 		<maven.compiler.source>1.8</maven.compiler.source>
